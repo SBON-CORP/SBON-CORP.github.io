@@ -21,7 +21,5 @@ p {
 img {
   display: #ffffff;
   width: 500px;
-  align: center;
-  margin: 0 auto;
-  
+  /*: center;*/
 }
