@@ -19,7 +19,6 @@ p {
 }
 
 img {
-  display: #ffffff;
-  width: 500px;
-  /*: center;*/
+  display: block;
+  margin: 0 auto;
 }
