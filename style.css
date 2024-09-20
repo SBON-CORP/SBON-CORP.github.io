@@ -1,18 +1,22 @@
 body {
-  background-color: black;
+	background-color: black;
 }
 
 h1,
 p {
-  text-align: center;
+	text-align: center;
 }
 
 h1 {
-  color: white;
+	color: white;
 }
 
 p {
-  color: lightgrey;
-  font-family: verdana;
-  font-size: 20px;
+	color: lightgrey;
+	font-family: verdana;
+	font-size: 20px;
+}
+
+ima {
+	width: 500px;
 }
